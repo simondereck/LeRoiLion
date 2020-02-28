@@ -1,0 +1,10 @@
+9b6fa1,127.0.0.1,GET,http://localhost:8000/,1575394538,,200
+502c08,127.0.0.1,GET,http://localhost:8000/images/blue-arrow.png,1575394636,8b7e99,200
+8b7e99,127.0.0.1,GET,http://localhost:8000/images/blue-arrow.png,1575394636,,404
+18a9cc,127.0.0.1,GET,http://localhost:8000/lucky/number,1575395195,834d23,200
+834d23,127.0.0.1,GET,http://localhost:8000/lucky/number,1575395195,,404
+d95311,127.0.0.1,GET,http://127.0.0.1:8000/,1582916830,,200
+2fe749,127.0.0.1,GET,http://localhost:8000/,1582916870,,200
+af35d9,127.0.0.1,GET,http://localhost:8000/homepage,1582916878,84d177,200
+84d177,127.0.0.1,GET,http://localhost:8000/homepage,1582916878,,404
+c9bc83,127.0.0.1,GET,http://localhost:8000/,1582916916,,200
